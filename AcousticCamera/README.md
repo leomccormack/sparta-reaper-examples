@@ -5,7 +5,7 @@ Plug-ins used: [sparta_array2sh](https://leomccormack.github.io/sparta-site/docs
 
 This example project is configured to stream the 32-channels from an Eigenmike32 spherical microphone array, encode this input into fourth-order Ambisonics, and then visualise the sound scene. Optionally, if a 360-degree camera is mounted above the microphone array, then the corresponding image may be placed behind the visualisation maps; thus, creating a make-shift "acoustic camera":
 
-<img src="EigenmikeAndRicohThetaS.jpg" alt="" width="800" style="max-width: 60%"></br>
+<img src="EigenmikeAndRicohThetaS.jpg" alt="" width="550" style="max-width: 60%"></br>
 
 The microphone array to ambsonics signals conversion is performed by **sparta_array2sh**. Note that this example also works if you swap out the Eigenmike for e.g. a Zylia ZM-1, or a first-order A-format microphone, in which case the appropriate preset/settings should be selected in sparta_array2sh, and the below visualisation will cap-out at third- and first-order, respectively.
 
