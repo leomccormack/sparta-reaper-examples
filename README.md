@@ -1,13 +1,13 @@
 # sparta-reaper-examples
 
-**Note that these examples depend on audio files, which can be downloaded from [here](https://github.com/leomccormack/sparta-reaper-examples/releases)**.
+**Note that these examples depend on audio files, which may be downloaded from the [release section](https://github.com/leomccormack/sparta-reaper-examples/releases) and should be placed in the [_audio](_audio/) folder**.
 
 Included examples:
 * [AcousticCamera](AcousticCamera)
 * [AmbisonicPanningBinaural](AmbisonicPanningBinaural)
+* [AmbisonicRoomEncoding](AmbisonicRoomEncoding)
 * [PanningBinaural](PanningBinaural)
 * [SixDegreesOfFreedomRendering](SixDegreesOfFreedomRendering)
-
 
 ## Audio sample credits
 

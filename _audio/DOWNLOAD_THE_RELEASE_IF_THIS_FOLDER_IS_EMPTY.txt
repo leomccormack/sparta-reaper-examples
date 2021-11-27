@@ -1,4 +1,6 @@
-If this folder does not contain any audio files, then it is because you have downloaded or cloned the git repository.
-
-Please instead download the latest release, which contains the audio files used by the examples:
+If this folder does not contain any audio files, then please download them from here:
 https://github.com/leomccormack/sparta-reaper-examples/releases
+
+The structure should be: 
+sparta-reaper-examples/_audio/test_scenes
+sparta-reaper-examples/_audio/FOA
