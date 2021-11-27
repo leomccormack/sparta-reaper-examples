@@ -1,12 +1,13 @@
 # sparta-reaper-examples
 
+**Note that these examples depend on audio files, which can be downloaded from [here](https://github.com/leomccormack/sparta-reaper-examples/releases)**.
+
 Included examples:
 * [AcousticCamera](AcousticCamera)
 * [AmbisonicPanningBinaural](AmbisonicPanningBinaural)
 * [PanningBinaural](PanningBinaural)
 * [SixDegreesOfFreedomRendering](SixDegreesOfFreedomRendering)
 
-Note that these examples
 
 ## Audio sample credits
 
@@ -14,7 +15,6 @@ Note that these examples
 * _audio/FOA/demo_folk_music_FUMA.wav - Mandolin and violin jam, previously available at soundfield.com
 * _audio/FOA/demo_orfeo_FUMA.wav - Trio in C Minor by Beethoven, Op.9 No.3, performed by the Orfeo Trio, London UK 2008, recorded by John Leonard, available at ambisonia.com
 * _audio/FOA/demo_auckland_FUMA.wav - Romeo and Juliet, Op. 64: Act 1: No. 13: Dance of the knights, provided by Prof. Angelo Farina and RAI-CRIT, Turin, Italy, recorded by Dr. Leonardo Scopece. 
-* _audio/FOA/demo_saunders_FUMA.wav - 
 
 ## Contributing
 
