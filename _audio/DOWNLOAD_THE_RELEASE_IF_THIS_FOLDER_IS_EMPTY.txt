@@ -1,0 +1,4 @@
+If this folder does not contain any audio, then it is because you have downloaded or cloned the git repository.
+
+Please instead download the latest release, which contains the audio used by the examples and can be found here:
+https://github.com/leomccormack/sparta-reaper-examples/releases

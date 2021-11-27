@@ -1,3 +1,7 @@
 *.RPP-bak
 *.reapeaks
 *.DS_Store
+_audio/FOA/
+_audio/HOA/
+_audio/test_scenes/
+
