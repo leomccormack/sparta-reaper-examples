@@ -6,10 +6,12 @@ Included examples:
 * [AcousticCamera](AcousticCamera)
 * [AmbisonicDecodingBinaural](AmbisonicDecodingBinaural)
 * [AmbisonicPanningBinaural](AmbisonicPanningBinaural)
+* [AmbisonicPanningLoudspeakers](AmbisonicPanningLoudspeakers)
 * [AmbisonicRoomEncoding](AmbisonicRoomEncoding)
 * [PanningBinaural](PanningBinaural)
 * [PanningLoudspeakers](PanningLoudspeakers)
 * [SixDegreesOfFreedomRendering](SixDegreesOfFreedomRendering)
+* [SourceTracking](SourceTracking)
 
 ## Audio sample credits
 
