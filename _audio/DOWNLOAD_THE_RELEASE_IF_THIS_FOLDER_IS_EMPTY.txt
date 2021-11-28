@@ -4,3 +4,5 @@ https://github.com/leomccormack/sparta-reaper-examples/releases
 The structure should be: 
 sparta-reaper-examples/_audio/test_scenes
 sparta-reaper-examples/_audio/FOA
+
+All of the examples then include the above folders as relative search paths.

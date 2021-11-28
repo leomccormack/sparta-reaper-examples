@@ -21,5 +21,3 @@ Included examples:
 ## Contributing
 
 If you spot anything amiss, or would like to contribute a new example Reaper project, then please feel free to submit pull-requests and/or open an issue :-) 
-
-https://ambisonia.com/Members/AngeloFarina/ambisonicfile.2007-05-01.3504548990/
