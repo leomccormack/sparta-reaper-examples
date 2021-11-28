@@ -2,7 +2,8 @@ If this folder does not contain any audio files, then please download them from 
 https://github.com/leomccormack/sparta-reaper-examples/releases
 
 The structure should be: 
-sparta-reaper-examples/_audio/test_scenes
-sparta-reaper-examples/_audio/FOA
+sparta-reaper-examples/_audio/Eigenmike32/
+sparta-reaper-examples/_audio/FOA/
+sparta-reaper-examples/_audio/test_scenes/
 
 All of the examples then include the above folders as relative search paths.

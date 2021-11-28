@@ -4,7 +4,8 @@
 
 Included examples:
 * [AcousticCamera](AcousticCamera)
-* [AmbisonicDecodingBinaural](AmbisonicDecodingBinaural)
+* [AmbisonicDecoding](AmbisonicDecoding)
+* [AmbisonicDecodingWithTranslationBinaural](AmbisonicDecodingWithTranslationBinaural)
 * [AmbisonicPanningBinaural](AmbisonicPanningBinaural)
 * [AmbisonicPanningLoudspeakers](AmbisonicPanningLoudspeakers)
 * [AmbisonicRoomEncoding](AmbisonicRoomEncoding)
@@ -22,6 +23,7 @@ Included examples:
 * _audio/Eigenmike32/demo_Musiikkitalo_1.wav - Symphony No. 1 in C minor, Op. 68, by Brahms, performed by Sibelius Academy Symphony Orchestra, Helsinki FI, 2014, recorded by Archontis Politis, Aalto University
 * _audio/Eigenmike32/demo_Musiikkitalo_2.wav - Symphony No. 1 in C minor, Op. 68, by Brahms, performed by Sibelius Academy Symphony Orchestra, Helsinki FI, 2014, recorded by Archontis Politis, Aalto University
 * _audio/Eigenmike32/demo_Musiikkitalo_3.wav - Double Concerto in A minor, Op. 102, by Brahms, performed by Sibelius Academy Symphony Orchestra, Helsinki FI, 2014, recorded by Archontis Politis, Aalto University
+* _audio/Eigenmike32/demo_Shostakovich_3rdTake.wav -  Violin Concerto in D major, Op. 35, by Tchaikovsky, provided by Prof. Angelo Farina and RAI-CRIT, Turin, Italy, recorded by Dr. Leonardo Scopece.
 * _audio/Eigenmike32/locata_task4rec1_snippet.wav - from the LOCATA localisation and tracking challenge data cropus: [https://zenodo.org/record/3630471](https://zenodo.org/record/3630471), by C. Evers, H. W. Löllmann, H. Mellmann, A. Schmidt, H. Barfuss, P. A. Naylor, W. Kellermann. 
 
 ## Contributing
