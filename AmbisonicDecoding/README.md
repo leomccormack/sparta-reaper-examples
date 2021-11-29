@@ -21,6 +21,8 @@ Plug-ins used: [sparta_ambiBIN](https://leomccormack.github.io/sparta-site/docs/
 
 Here, first-order (FUMA) Ambisonic recordings are decoded to headphones using the **sparta_ambiBIN**, or **compass_binaural**,  **hodirac_binaural**, or **cropac_binaural**.
 
+You can switch between the different decoders using the solo+defeat functionality of Reaper. On macOS, the shortcut is to hold down: "option"+"command", and then click on the 'S' solo icon.
+
 Note that the COMPASS, HO-DirAC, and CroPaC decoders are signal-dependent, and aim to adapt the processing to be more spatially accurate. They also allow for sound-field modifications, which would not be possible with a linear decoder, such as adjusting the direct-to-diffuse balance.
 
 
@@ -41,9 +43,11 @@ In this example, the **sparta_array2sh** plugin is used to encode Eigenmike reco
 ### parametricDecodingLoudspeakersEigenmike.RPP
 
 Plug-ins used: [sparta_ambiDEC](https://leomccormack.github.io/sparta-site/docs/plugins/sparta-suite/#ambidec), [compass_decoder](https://leomccormack.github.io/sparta-site/docs/plugins/compass-suite/#decoder), [hodirac_decoder](https://leomccormack.github.io/sparta-site/docs/plugins/hodirac-suite/#decoder).
-Optional: [sparta_ambiDEC](https://leomccormack.github.io/sparta-site/docs/plugins/sparta-suite/#binauraliser).
+Optional: [sparta_binauraliser](https://leomccormack.github.io/sparta-site/docs/plugins/sparta-suite/#binauraliser).
 
 Here, first-order (FUMA) Ambisonic recordings are decoded to headphones using the **sparta_ambiDEC**, or **compass_decoder**,  or **hodirac_decoder**.
+
+You can switch between the different decoders using the solo+defeat functionality of Reaper. On macOS, the shortcut is to hold down: "option"+"command", and then click on the 'S' solo icon.
 
 Note that the COMPASS and HO-DirAC decoders are signal-dependent, and aim to adapt the processing to be more spatially accurate. They also allow for sound-field modifications, which would not be possible with a linear decoder, such as adjusting the direct-to-diffuse balance.
 
