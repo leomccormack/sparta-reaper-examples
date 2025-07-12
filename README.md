@@ -1,5 +1,7 @@
 # sparta-reaper-examples
 
+**Note that these examples require SPARTA v1.8.0 or later. For examples that work with older versions of the plugins (pre-1.8.0), use version 1.0.0 of the examples found in the "release" section.**.
+
 **Note that these examples depend on audio files, which may be downloaded from the [release section](https://github.com/leomccormack/sparta-reaper-examples/releases) and should be placed in the [_audio](_audio/) folder**.
 
 Included examples:
